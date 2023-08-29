@@ -18,3 +18,11 @@
 - Learn to navigate and utilize command-line tools for various tasks.
 - Grasp concepts such as memory management, file systems, and process communication.
 - Develop a deeper understanding of how software interacts with hardware.
+
+- ## Why I'm Taking This Course
+
+- **Career Enhancement**: Open doors to career opportunities in embedded systems, software development, and DevOps.
+- **Holistic Understanding**: Bridge the gap between theoretical programming knowledge and practical application.
+- **Personal Growth**: Challenge myself, expand my skill set, and explore the domain of system programming.
+
+By the end of this course, I aim to have a comprehensive understanding of system programming and its practical applications. I am excited to invest time and effort in achieving these goals.
