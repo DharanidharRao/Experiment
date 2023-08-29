@@ -6,3 +6,15 @@
 - Enhance my skills in using GitHub for version control.
 - Develop proficiency in working with Linux and Unix systems.
 - Learn how to efficiently develop software that interacts closely with hardware.
+
+- ## What I'm Most Looking Forward To
+
+### Exploring GitHub
+- Master version control and collaboration using Git and GitHub.
+- Improve my ability to manage and contribute to projects effectively.
+
+### Linux and Unix Mastery
+- Dive into the world of Linux and Unix systems.
+- Learn to navigate and utilize command-line tools for various tasks.
+- Grasp concepts such as memory management, file systems, and process communication.
+- Develop a deeper understanding of how software interacts with hardware.
